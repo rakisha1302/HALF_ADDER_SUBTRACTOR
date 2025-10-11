@@ -68,8 +68,7 @@ module exp2(diff, borrow, a, b); output diff; output borrow; input a; input b; a
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by:ANURANJAN.B
-RegisterNumber:25003110
+
 
 **RTL Schematic**
 HALF ADDER:
