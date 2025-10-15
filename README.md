@@ -72,17 +72,22 @@ module exp2(diff, borrow, a, b); output diff; output borrow; input a; input b; a
 
 **RTL Schematic**
 HALF ADDER:
+
 <img width="1919" height="1079" alt="HALF ADDER" src="https://github.com/user-attachments/assets/c2f80450-d3ff-4a3d-b3ee-d7c8b378264f" />
 
-HALF SUBTRACTOR:
-<img width="1919" height="1079" alt="HALF SUBTRACTOR" src="https://github.com/user-attachments/assets/0d124c89-8318-4e09-aed6-22d8b9d0132c" />
+HALF SUBRACTER:
+
+<img width="1919" height="1079" alt="498254176-69c1e443-0100-4928-8150-b3eabab1ec15" src="https://github.com/user-attachments/assets/427a2889-6525-4e14-84ea-d4dc04a64745" />
+
 
 **Output/TIMING Waveform**
 
 HALF ADDER:
-<img width="1919" height="1079" alt="498254176-69c1e443-0100-4928-8150-b3eabab1ec15" src="https://github.com/user-attachments/assets/427a2889-6525-4e14-84ea-d4dc04a64745" />
 
-HALF SUBTRACTOR:
+<img width="1919" height="1079" alt="HALF SUBTRACTOR" src="https://github.com/user-attachments/assets/0d124c89-8318-4e09-aed6-22d8b9d0132c" />
+
+HALF SUBRACTER:
+
 <img width="1919" height="1079" alt="498254214-7aaac347-da3a-4c0f-9806-2dff46186fa1" src="https://github.com/user-attachments/assets/55e9eb6c-32e3-4398-bf6b-88f8c9263507" />
 
 **Result:**
